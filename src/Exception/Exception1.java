@@ -12,6 +12,6 @@ public class Exception1 {
         catch (ArithmeticException e){
             System.out.println(e);
         }
-        System.out.println("hibye");
+        System.out.println("hibyejgjjgjh");
     }
 }
