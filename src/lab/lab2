@@ -1,0 +1,10 @@
+package lab;
+class SimpleObject{
+    SimpleObject(){
+        System.out.println("Hi I am from SimpleObject");
+    }
+}
+public class lab2 {
+    SimpleObject so=new SimpleObject();
+
+}
